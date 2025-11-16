@@ -34,8 +34,7 @@ How to Run:
 2. Place project.py and electrical_load.db in the same folder
 
 3. Run the program
-
-  -- python project.py
+    -- python project.py
 4. Follow the on-screen menu to add appliances, view data, and calculate load  
 
 Project Structure:
