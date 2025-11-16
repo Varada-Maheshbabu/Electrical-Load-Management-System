@@ -1,4 +1,4 @@
-                                                                   Electrical Load Management System
+                                                      Electrical Load Management System
 
 A Python-based tool that calculates the total connected electrical load using appliance data stored in an ANSI SQL (SQLite) database. The system computes total wattage, required current, and recommends a suitable MCB rating. Built using basic OOP principles, SQLite, and a clean modular structure.
 
